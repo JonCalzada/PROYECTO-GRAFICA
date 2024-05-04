@@ -1,0 +1,19 @@
+09_10_Animation/p9/.vs/p9/v17/Browse.VC.opendb
+09_10_Animation/p9/.vs/p9/v17/ipch/AutoPCH/f694461997d017c1/09-ANIMATION.ipch
+*.ipch
+.vs/
+*/.vs/*
+/x64/
+*.zip
+*.7z
+
+
+# Ignorar archivos grandes
+*.7z
+
+# Ignorar archivos de Visual Studio
+.vs/
+
+# Ignorar archivos generados por compilación o IDE
+*.ipch
+*png

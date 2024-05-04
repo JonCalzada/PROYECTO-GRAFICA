@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  09-Animation.cpp
+D:\Documentos_C\2024-2\LAB\gcv2\ProyectoTesting\09_10_Animation\09-Animation.cpp(394,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Documentos_C\2024-2\LAB\gcv2\ProyectoTesting\09_10_Animation\09-Animation.cpp(428,20): warning C4305: '+=': truncation from 'double' to 'float'
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+  p9.vcxproj -> D:\Documentos_C\2024-2\LAB\gcv2\ProyectoTesting\bin\p9.exe
